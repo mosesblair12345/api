@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Best of Nakuru in 7 Days Tour",
+    "info": "Lake Nakuru is home to four of the big five safari animals, amongst many other species. Lions, leopards, buffalo and rhino roam the plains; it’s one of the few places in Africa that supports a large population of endangered white rhino. Lake Nakuru is perhaps best known for the huge migrations of pink flamingos that descend upon the lake in vast numbers throughout the year.",
+    "image": "https://www.goatsontheroad.com/wp-content/uploads/2022/10/visiting-Lake-Nakuru-National-Park.jpeg",
+    "price": "10,000"
+  },
+  {
+    "id": 2,
+    "name": "Best of Kisumu in 10 Days Tour",
+    "info": "The Kisumu Impala Sanctuary is a home to impalas which is the rare Sitatunga antelope. Further, a number of several primate species and cheetahs, big cats, giraffes and buffalos can be spotted here. Home to the 5 campsites, camping here can amplify the fun given the spectacular views of the Lake Victoria.",
+    "image": "https://victormatara.com/wp-content/uploads/2019/01/List-Of-10-Best-Places-To-Visit-In-Kisumu-County-7.jpg",
+    "price": "6,000"
+  },
+  {
+    "id": 3,
+    "name": "Best of Mombasa in 5 Days Tour",
+    "info": "Mombasa is famous for its beaches, world-class beach resorts, and it’s historical significance. It is the most popular tourist destination in Kenya and is the second largest city in Kenya (second only to the capital city, Nairobi). The city has unique features like Fort Jesus, Elephant Tusks at Old Town for Princess Margaret of England,  Kilindini Harbour – One of the Naturally Deepest Harbours Globally and The Beautiful Marine Park.",
+    "image": "https://www.wakenyawataliitourstravel.com/wp-content/uploads/2020/10/Places-to-visit-in-Moombasa-Kenya-1024x444.jpg",
+    "price": "15,000"
+  },
+  {
+    "id": 4,
+    "name": "Best of Nairobi in 4 Days Tour",
+    "info": "Nairobi is the bustling capital city of Kenya and the main entry point to the country. Most visitors spend a day or two exploring the capital at the start or end of a trip. From game viewing at Nairobi National Park, to experiencing the vibrant flavours, colours, and sounds of the Maasai Market, Nairobi has plenty to offer.",
+    "image": "https://ralingo.com/wp-content/uploads/2021/09/nairobi.jpg",
+    "price": "8,000"
+  },
+  {
+    "id": 5,
+    "name": "Best of Eldoret in 7 Days Tour",
+    "info": "Eldoret serves an agricultural area; the chief crops are corn (maize), wheat, and pyrethum (a plant used in manufacturing insecticides). Cattle’s rising in the vicinity is important. Local industries include flour-milling and food-processing plants. Eldoret is a rail stop on the line running northwest into Uganda. It is the seat of a Roman Catholic bishopric and is home to Moi University (1984). The town is home to a large international floral and buyer/seller market, and Eldoret International Airport.",
+    "image": "https://i0.wp.com/www.scrapbookjourneys.com/wp-content/uploads/2020/11/Eldoret_October-25-2020-171-Copy.jpg?resize=1000%2C667&ssl=1",
+    "price": "6,000"
+  }
+]
