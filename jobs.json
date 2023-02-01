@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Biometrics Technician",
+    "dates": "May 2022 - July 2022",
+    "duties": [
+      "Operated the Biometrics System to enable proper registration of clients.",
+      "Basic Pc maintenance and proper customer service.",
+      "Member management and claim processing."
+    ],
+    "company": "NHIF"
+  },
+  {
+    "id": 2,
+    "title": "IT Technician ",
+    "dates": "February 2021 - May 2021",
+    "duties": [
+      "Monitored local network to streamline functionality.",
+      "Arranged computers, routers, and printers for designated personnel to establish productive well-equipped workstations.",
+      "Provided technical support to company staff, resolving varied issues across internal and external applications."
+    ],
+    "company": "VIHIGA COUNTY GOVERNMENT"
+  }
+]
